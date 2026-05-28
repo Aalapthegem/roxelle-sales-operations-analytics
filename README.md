@@ -57,7 +57,7 @@ The following cleaning operations were performed:
 * Checked and handled blank/null values appropriately
 * Created a custom Revenue After Discount column using:
 
-```DAX
+DAX
 Revenue After Discount = Quantity × UnitPrice × (1 - DiscountPercent / 100)
 
 ### Null & Blank Value Handling
