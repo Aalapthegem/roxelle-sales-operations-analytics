@@ -171,7 +171,7 @@ Dashboard screenshots and model view screenshots are available in the `/screensh
 ## Power BI Service Link
 
 Published Power BI Service Report:
-(https://app.powerbi.com/groups/me/reports/5a859b0d-7c6c-4bc2-a8c5-4492c0bcf930/152bad589e51cc42d818?experience=power-bi)
+https://app.powerbi.com/groups/me/reports/5a859b0d-7c6c-4bc2-a8c5-4492c0bcf930/152bad589e51cc42d818?experience=power-bi
 
 ## Repository Contents
 
